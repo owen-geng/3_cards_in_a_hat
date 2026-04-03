@@ -4,6 +4,13 @@ There are 3 cards put into a hat. One card has 2 red faces, one card has 2 blue 
 
 You draw a card randomly from the hat, and you see one face is red. What is the probability the other face is also red?
 
+Output:
+Number of times the other face was red: 33421
+Number of times the other face was blue: 16560
+Total number of times the seen face is red: 49981
+Probability of unseen face being red: 0.6686740961565395
+
+(No fixed seed, may be slight deviations)
 ================================================================================================================================
 
 Explaination:
